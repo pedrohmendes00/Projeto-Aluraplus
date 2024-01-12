@@ -10,7 +10,7 @@ Estruturação e formatação de texto
 
 Estilizações com CSS
 
-Importância do HTML semântico e boas práticas de desenvolvimento
+HTML semântico e boas práticas de desenvolvimento
 
 Trabalhando com mais de uma página HTML no mesmo projeto
 
