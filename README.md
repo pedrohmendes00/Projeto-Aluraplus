@@ -19,22 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 
-<p align="center">
-  ![001](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/a93e4019-c802-47a9-8bc0-ce5b74c6b68e)
-</p>
-
-<p align="center">
-  ![002](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/7740d90d-1019-4c14-afe4-1afd4cd1a8a5)
-</p>
-
-<p align="center">
-  ![003](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/3f7670f8-29c6-4f62-9d3f-4a320d6a6a84)
-</p>
-
-<p align="center">
-  ![004](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/71ea4a0e-c0df-437e-9617-635f110936f9)
-</p>
-
-<p align="center">
- ![005](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/7dc599c8-34b1-4688-852a-fb0afb3930ab)
-</p>
+![005](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/f7658266-307c-40bc-adeb-59a6a5dc9549)
+![004](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/b6313b90-5860-4310-8e74-3e79c5cbff73)
+![003](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/91158419-2001-432b-bf67-cfec8ac0b41c)
+![002](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/6cb1a6d8-f269-4a04-baa4-ba5d4b289081)
+![001](https://github.com/pedrohmendes00/Projeto-Aluraplus/assets/145568848/db094e61-50a9-4dca-a326-2c8369b08776)
