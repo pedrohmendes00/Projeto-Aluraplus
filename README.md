@@ -2,6 +2,7 @@
 
 Trilha: A partir do zero: HTML e CSS para projetos web
 
+
 Este projeto teve como objetivo, criar uma página WEB utilizando as tecnologias apresentadas ao longo da formação - Os temas que foram abordados são:
 
 Criando um projeto com HTML e CSS do zero
